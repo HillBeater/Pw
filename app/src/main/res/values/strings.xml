@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">PWContactPull</string>
+    <string name="sync_contacts">Sync Contacts</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="course">Course</string>
+    <string name="enrolled_on_date">Enrolled On (Date)</string>
+    <string name="save_contact">Save Contact</string>
+    <string name="favorites">Favorites</string>
+    <string name="recents">Recents</string>
+    <string name="contact">Contact</string>
+    <string name="search_contact">Search Contact</string>
+    <string name="image">Image</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_results">No results</string>
+    <string name="back">back</string>
+    <string name="new_contact_found">New Contact Found</string>
+    <string name="sync_contact">Sync contact</string>
+    <string name="edit">Edit</string>
+    <string name="no_new_contact_found">No new contact found</string>
+    <string name="contacts_synced_successfully">Contacts Synced\nSuccessfully</string>
+    <string name="last_synced_label">Last synced\n%s</string>
+    <string name="save">Save</string>
+    <string name="add_picture">Add picture</string>
+    <string name="first_name">First name</string>
+    <string name="surname">Surname</string>
+    <string name="company">Company</string>
+    <string name="phone_mobile">Phone (Mobile)</string>
+    <string name="no_contact_found">No contact found</string>
+    <string name="no_result_for">No result for "%1$s"</string>
+
+
+</resources>
